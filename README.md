@@ -4,8 +4,9 @@ Microsoft Access baza podataka za građevinsku kompaniju Gradcoop
 Program se sastoji od nekoliko važnih komponenti prčemu su najvažnije:
   - Praćenje protoka goriva
   - Troškovi gradilišta i mehanizacije
-  - Sistem zahteva 
   - Magacin
+  - Sistem zahteva i zaduženja
+  
 
 ## Magacin
 
@@ -13,10 +14,15 @@ Magacin predstavlja deo programa koji se odnosi na digitalno skladište artikala
 
 Trenutno nemamo više fizičkih magacina već samo jedan, pa je tome prilagođen i digitalno skladištenje podataka.
 
+Osnove tabele koje čine magacin su:
+  - Tip Artikla
+  - Artikli
+  - Racun
+
+Više o svakoj od njih i rukovanju njima je opisano na stranici [Magacin](docs/Magacin.md).
 
 
-
-## Sistem zahteva
+## Sistem zahteva i zaduženja
 
 Veoma nam je značajno da precizno vodimo evidenciju o zaduživanju artikala iz magacina i službenih vozila.
 
