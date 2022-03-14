@@ -33,7 +33,7 @@ Osnove tabele koje čine magacin su:
   - Artikal
   - Racun
 
-Više o svakoj od njih i rukovanju njima opisano je na stranici [Magacin](docs/Magacin.md).
+Više o svakoj od njih i rukovanju njima opisano je na stranici [Magacin](./docs/Magacin.md).
 
 
 ## Sistem zahteva i zaduženja
@@ -46,5 +46,5 @@ Osnovne tabele koje čine ovu sekciju su:
   - Mesto
   - Montaža
 
-Detaljnije o ovim tabelama i procesima između njih možete pročitati na stranici [Sistem zahteva i zaduženja](docs/Sistem zahteva i zaduženja).
+Detaljnije o ovim tabelama i procesima između njih možete pročitati na stranici [Sistem zahteva i zaduženja](./docs/Sistem zahteva i zaduženja.md).
 
