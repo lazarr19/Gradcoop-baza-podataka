@@ -16,7 +16,7 @@ Trenutno nemamo više fizičkih magacina već samo jedan, pa je tome prilagođen
 
 Osnove tabele koje čine magacin su:
   - Tip Artikla
-  - Artikli
+  - Artikal
   - Racun
 
 Više o svakoj od njih i rukovanju njima je opisano na stranici [Magacin](docs/Magacin.md).
@@ -29,5 +29,11 @@ Veoma nam je značajno da precizno vodimo evidenciju o zaduživanju artikala iz 
 Ovde je detaljno opisan način na koji bi sistem zahteva trebao da funkcioniše u okviru ovog programa.
 Ideja je da opisom ovih procedura pomognemo svakome ko koristi program za praćenje zahteva.
 
+Osnovne tabele koje čine ovu sekciju su:
+  - Zahtev
+  - Zaduženje
+  - Mesto
+  - Montaža
 
+Detaljnije o ovim tabelama i procesima između njih možete pročitati na stranici [Sistem zahteva i zaduženja](docs/Sistem zahteva i zaduženja).
 
