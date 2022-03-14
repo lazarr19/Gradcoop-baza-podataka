@@ -46,5 +46,5 @@ Osnovne tabele koje čine ovu sekciju su:
   - Mesto
   - Montaža
 
-Detaljnije o ovim tabelama i procesima između njih možete pročitati na stranici [Sistem zahteva i zaduženja](./docs/Sistem_zahteva_i_zaduženja.md).
+Detaljnije o ovim tabelama i procesima između njih možete pročitati na stranici [Sistem zahteva i zaduženja](./docs/Sistem%20zahteva%20i%20zaduženja.md).
 
