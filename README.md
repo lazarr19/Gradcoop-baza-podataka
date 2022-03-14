@@ -1,2 +1,3 @@
-# Gradcoop---baza-podataka
-Microsoft Access database for the construction company Gradcoop
+# Gradcoop -- baza-podataka
+Microsoft Access baza podataka za građevinsku kompaniju Gradcoop
+
