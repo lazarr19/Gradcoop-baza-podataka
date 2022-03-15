@@ -184,11 +184,31 @@ Ukoliko se primete bilo kakve ***neregularnosti*** ili ***nelogičnosti*** prili
 
 ## Formiranje povratnica
 
+Do sada smo videli kako se formiraju zaduženja artikala na određena mesta u okviru ovog programa. U stvarnom svetu je potrebno artikle ****vratiti ili premestiti sa određenog mesta*** iz raznih razloga. Za simulaciju toga u našem programu nam služi koncept povratnice.
+
 ### Dodavanje povratnica
+
+Povratnica se dodaje pomoću sledeće procedure:
+
+  1. Klikom na dugme ***Dodaj povratnicu*** se otvara nova forma
+  2. Dalje je potrebno popuniti polja pri čemu su najvažnija:
+     * ***Odakle se demontira/razdužuje***: Praktično predstavlja odabir mesta sa kog vršimo povratnicu
+     * ***Šta se demontira/razdužuje***: Predstavlja odabir artikla koji je dodeljen mestu i koji želimo da demontiramo/razdužimo. Bitno je ***ispravno*** odabrati artikal ***zajedno sa njegovom pozicijom***, ukoliko je ona naznačena. Dakle, prilikom odabira šta se demontira/razdužuje korisnik programa preuzima odgovornost na sebe da bude što precizniji u odabiru artikla koji se vraća.
+     * ***Predao***: Čovek koji je "koristio" artikal i sada ga razdužuje
+     * ***Primio***: Čovek koji je primio iskorišćeni artikal i smestio ga ponovo u magacin (ili vratio ključeve od službenog vozila na njihovo mesto)
+     * ***Rashodovan***: detaljnije opisano u sekciji [Rashodovanje artikala](#rashodovanje-artikala)
+  3. Klikom na dugme ***Potvrdi povratnicu*** se potvrđuju uneti podaci i automatski se sprovodi usklađenost sistema
+
 
 ### Rashodovanje artikala
 
+U slučaju da je artikal rashodovan nakon povratnice, odnosno da nije više u upotrebi potrebno je obeležiti odgovarajuće polje ***Rashodovan***.
+
+Time se označava da je određeni artikal rashodovan i da ***neće biti više korišten***.
+
+***Primer*** može da bude ćelava ili rasečena guma koja se neće više koristiti.
+
 ### Premeštaj artikala
 
-
+Tek je potrebno dodati ovu opciju.
 
