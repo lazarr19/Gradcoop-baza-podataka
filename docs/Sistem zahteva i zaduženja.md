@@ -117,6 +117,9 @@ Detaljan pregled je omogućen sledećom procedurom:
 Ukoliko se primete bilo kakve ***neregularnosti*** ili ***nelogičnosti*** prilikom pregleda zahteva, potrebno je reagovati na njih. Ukoliko su tehničke prirode kontaktirati ***stučna lica*** ili ukoliko je problem manje prirode (npr. greška u datumu) samostalno izmeniti podatke uz ***dosta*** opreza.
 
 
+[Nazad na vrh](#sistem-zahteva-i-zaduženja)
+
+
 ## Formiranje zaduženja
 
 Zaduženja predstavljaju novu vrstu objekata sa kojim se korisnik može susresti u ovom programu. Naravno, svako zaduženje aritkala ne može postojati samo od sebe već je potrebno da za njega postoji određeni zahtev.
@@ -128,7 +131,10 @@ Kao što možemo videti u prethodnoj rečenici za zaduženja su ključni:
   - ***Mesto*** na kome je zadužen artikal (Gradilište, Mašina, Mašina sa pozicijom, Radnik - zaduživanje službenog vozila)
   - ***Montaža*** artikla na određeno mesto - ***najvažniji deo*** zaduženja (***važno***: montaža ne mora eksplicitno da znači fizičko montiranje objekta, može da bude i uručivanje ključeva radniku za službeno vozilo)
 
-Detaljnije o ovim delovima zaduženja pogledati u sledećoj sekciji.
+Detaljnije o ovim delovima zaduženja pogledati u sekcijama:
+  1. [Kreiranje i vrste zaduženja](#kreiranje-i-vrste-zaduženja)
+  2. [Montaža i zaduženje](#montaža-i-zaduženje)
+  3. [Pregled zaduženja](#pregled-zaduženja)
 
 ### Kreiranje i vrste zaduženja
 
@@ -182,9 +188,17 @@ Detaljan pregled je omogućen sledećom procedurom:
 Ukoliko se primete bilo kakve ***neregularnosti*** ili ***nelogičnosti*** prilikom pregleda zahteva, potrebno je reagovati na njih. Ukoliko su tehničke prirode kontaktirati ***stučna lica*** ili ukoliko je problem manje prirode (npr. greška u datumu) samostalno izmeniti podatke uz ***dosta*** opreza.
 
 
+[Nazad na vrh](#sistem-zahteva-i-zaduženja)
+
+
 ## Formiranje povratnica
 
 Do sada smo videli kako se formiraju zaduženja artikala na određena mesta u okviru ovog programa. U stvarnom svetu je potrebno artikle ****vratiti ili premestiti sa određenog mesta*** iz raznih razloga. Za simulaciju toga u našem programu nam služi koncept povratnice.
+
+Osnovne operacije sa povratnicama su:
+  1. [Dodavanje povratnica](#dodavanje-povratnica)
+  2. [Rashodovanje artikala](#rashodovanje-artikala)
+  3. [Premeštaj artikala](#premeštaj-artikala)
 
 ### Dodavanje povratnica
 
@@ -212,3 +226,4 @@ Time se označava da je određeni artikal rashodovan i da ***neće biti više ko
 
 Tek je potrebno dodati ovu opciju.
 
+[Nazad na vrh](#sistem-zahteva-i-zaduženja)
