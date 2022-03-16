@@ -11,7 +11,7 @@ Dokument sadrži opise sledećih procedura:
     - [Odobravanje zahteva](#odobravanje-zahteva)
     - [Poručivanje zahteva](#poručivanje-zahteva)
     - [Storniranje zahteva](#storniranje-zahteva)
-    - [Pregled zahteva](#storniranje-zahteva)
+    - [Pregled zahteva](#pregled-zahteva)
   - [Formiranje zaduženja](#formiranje-zaduženja)
     - [Kreiranje i vrste zaduženja](#kreiranje-i-vrste-zaduženja)
     - [Montaža i zaduženje](#montaža-i-zaduženje)
