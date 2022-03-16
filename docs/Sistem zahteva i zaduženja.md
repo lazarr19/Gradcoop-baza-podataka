@@ -106,6 +106,12 @@ Napomena: Biti veoma pažljiv sa odabirom zahteva koji se stornira jer je ova op
 Najvažniji deo prilikom rada sa zahtevima jeste i dobar pregled svih zahteva koji postoje u programu.
 Korisnik programa ***treba često da koristi*** ovu mogućnost kako bi i on sam bio u toku sa trenutnim dešavanjima.
 
+  1. Klikom na dugme ***Zahtev detaljno*** se otvara nova forma
+  2. Potrebno je odabrati ***ID*** zahteva za detaljnije informacije o njemu
+  3. Nakon toga klikom na dugme ***Detaljno*** se prikazuje tabela sa detaljnim informacijama o odabranom zahtevu
+  
+Ovo je jedan način da se pogledaju svi artikli koji su vezani za jedan zahtev. Postoje i drugi vidovi pregleda koji su opisani u nastavku teksta.
+
 Detaljan pregled je omogućen sledećom procedurom:
 
   1. Klikom na dugme ***Pretraži zahteve*** se otvara nova forma
