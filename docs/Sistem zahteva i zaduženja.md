@@ -86,7 +86,7 @@ U programu se takođe beleže informacije o ovom događaju kroz sledeće korake:
   3. Uneti datum poručivanja kroz polje ***Datum poručivanja*** (ne mora biti isto kao i datum zahteva ili datum odobrenja)
   4. Klikom na dugme ***Poruči zahtev*** završiti poručivanje artikala sa ovog zahteva
 
-***Važno pitanje: da li je potrebno poručiti svaki zahtev, npr. i onaj za službenim vozilom?, to baš nema smisla, kako odrediti koji se poručuju a koji ne?***
+***Važno: Nije potrebno poručiti svaki zahtev, već samo one za koje se vrši nabavka novog arikla. Npr. za zaduživanje vozila ili uzimanje nečega iz magacina ovaj korak se preskače.***
 
 ### Storniranje zahteva
 
@@ -98,8 +98,6 @@ U slučaju da je došlo do greške prilikom kreiranja zahteva, potrebno je storn
   
   ***Biti veoma oprezan prilikom ove operacije i nekoliko puta proveriti odgovarajući ID zahteva koji će biti storniran. Greška može dovesti do bezpovratnog gubitka podataka.***
 
-
-Napomena: Biti veoma pažljiv sa odabirom zahteva koji se stornira jer je ova operacija nepovratna, tj. nije moguće vratiti stornirane podatke.
 
 ### Pregled zahteva
 
@@ -224,7 +222,7 @@ Povratnica se dodaje pomoću sledeće procedure:
 
 U slučaju da je artikal rashodovan nakon povratnice, odnosno da nije više u upotrebi potrebno je obeležiti odgovarajuće polje ***Rashodovan***.
 
-Time se označava da je određeni artikal rashodovan i da ***neće biti više korišten***.
+Time se označava da je određeni artikal rashodovan i da ***neće biti više korišćen***.
 
 ***Primer*** može da bude ćelava ili rasečena guma koja se neće više koristiti.
 
