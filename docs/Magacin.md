@@ -32,7 +32,7 @@ Način na koji se to radi opisuje sledeća procedura:
   1. Klikom na dugme ***Dodaj artikl u magacin*** se otvara nova forma
   2. Potrebno je odabrati ***tip artikla***, ***oznaku*** i opcionu dodati serijski broj mada imati na umu da on ***nije obavezan***.
   3. U slučaju da je potrebno dodati tip artikla koji ne postoji trenutno u programu, on se može dodati klikom na dugme ***Unesi novi tip artikla***
-   * Potrebno je u redu koji počinje sa ***(New)*** dodati red sa odgovarajućim nazivom za novi tip artikla i sačuvati tabelu prečicom ***Ctrl + S*** ili desnim klikom na tab i klikom na dugme ***Save***.
+     * Potrebno je u redu koji počinje sa ***(New)*** dodati red sa odgovarajućim nazivom za novi tip artikla i sačuvati tabelu prečicom ***Ctrl + S*** ili desnim klikom na tab i klikom na dugme ***Save***.
   4. Ukoliko je potrebno dodati više artikala ići na dugme ***Dodaj još artikala*** koje će ponovo otvoriti istu formu. U slučaju da se unosi poslednji artikal on se unosi klikom na dugme ***Zaključi unos*** i zatvara se forma.
 
 ***Napomena: biti veoma obazriv prilikom dodavanja novih aritkala. Naime, ukoliko postoji artikal Guma, nije potrebno praviti novi artikal Guma Michelin, već iskoristiti postojeći Guma, a detalje artikla navesti u polju oznaka.***
